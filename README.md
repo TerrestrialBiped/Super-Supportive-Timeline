@@ -1,5 +1,9 @@
 **GENERAL NOTES**
 
+Quick link for latest Patreon timeline:  https://TerrestrialBiped.github.io/Super-Supportive-Timeline/patreon-latest.html
+
+Quick link for latest Royal Road timeline:  https://TerrestrialBiped.github.io/Super-Supportive-Timeline/royalroad-latest.html
+
 My reasoning and/or sources for every ambiguous date can be found in the footnotes.
 
 When it is ambiguous what time system is being referenced (e.g., earth years or Artonan years) I assume it is the time system that matches the language of conversation.  E.g., if an Artonan says "three years" when speaking English, I assume they mean earth years.  If they say it while speaking Artonan, I assume they mean Artonan years.
