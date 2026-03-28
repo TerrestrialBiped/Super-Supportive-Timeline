@@ -8,7 +8,7 @@ My reasoning and/or sources for every ambiguous date can be found in the footnot
 
 **NOTES ON TIME SYSTEMS**
 
-When it is ambiguous what time system is being referenced (e.g., earth years or Artonan years) I default to assuming it is the time system that matches the language of conversation.  E.g., if an Artonan says "three years" when speaking English, I assume they mean earth years.  If they say it while speaking Artonan, I assume they mean Artonan years.  Occasionally textual details convince me otherwise; my judgment calls are described in the footnotes.
+When it is ambiguous what time system is being referenced (e.g., earth years or Artonan years) I default to assuming it is the time system that matches the language of conversation.  E.g., if an alien says "three years" when speaking English, I assume they mean earth years.  If they say it while speaking Artonan, I assume they mean Artonan years.  Occasionally textual details convince me otherwise; my judgment calls are described in the footnotes.
 
 One Artonan day is approximately twenty-six earth hours (ch 27).  Hence, twelve Artonan days is roughly thirteen earth days.
 
