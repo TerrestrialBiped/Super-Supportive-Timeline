@@ -16,7 +16,7 @@ One Artonan year is approximately fifteen earth months (ch 101).  Hence, four Ar
 
 Twelve Artonan days make one Artonan week (ch 70).  They appear to alternate nine workdays with three days of weekend.
 
-Artonans age somewhat slower than humans.  A sixteen-earth-years-old Artonan is at roughly the same developmental stage as a twelve-earth-years-old human (ch 107).  Generally, I assume that this ratio of developmental ages holds at least until adulthood.
+Artonans age somewhat slower than humans.  A sixteen-earth-years-old Artonan is at roughly the same developmental stage as a twelve-earth-years-old human (ch 107).  I assume that this ratio of developmental ages holds at least until adulthood.
 
 Moon Thegund appears to have a rotational period of about sixty earth days (thirty bright, thirty dark, inferred from gap between known events and assuming no axial tilt).  This may be the lunar month Joe references in ch 28.
 
