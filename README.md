@@ -1,3 +1,9 @@
+**GENERAL NOTES**
+
+My reasoning and/or sources for every ambiguous date can be found in the footnotes.
+
+When it is ambiguous what time system is being referenced (e.g., earth years or Artonan years) I assume it is the time system that matches the language of conversation.  E.g., if an Artonan says "three years" when speaking English, I assume they mean earth years.  If they say it while speaking Artonan, I assume they mean Artonan years.
+
 **NOTES ON TIME SYSTEMS**
 
 One Artonan day is approximately 26 earth hours.  Hence, twelve Artonan days is roughly 13 earth days.
@@ -7,8 +13,4 @@ One Artonan year is approximately 15 earth months.  Hence, four Artonan years is
 Twelve Artonan days make one Artonan week.  They appear to alternate nine workdays with three days of weekend.
 
 Artonans age somewhat slower than humans.  A sixteen-earth-years-old Artonan is at roughly the same developmental stage as a twelve-earth-years-old human.
-
-**GENERAL NOTES**
-
-When it is ambiguous what time system is being used (e.g., earth years or Artonan years) I assume it is the time system that matches the language of conversation.  E.g., if an Artonan says "three years" when speaking English, I assume they mean earth years.
 
