@@ -20,4 +20,4 @@ Artonans age somewhat slower than humans.  A sixteen-earth-years-old Artonan is 
 
 Moon Thegund appears to have a rotational period of about sixty earth days (thirty bright, thirty dark, inferred from gap between known events and assuming no axial tilt).  This may be the lunar month Joe references in ch 28.
 
-Three years on Sreeaak is approximately seven years on earth (ch 26).  One day on Sreeaak appears to be approximately four Artonan days (based on Sophie's sleep schedule, ch 27).
+Three years on Sreeeakk is approximately seven years on earth (ch 26).  One day on Sreeeakk appears to be approximately four Artonan days (based on Sophie's sleep schedule, ch 27).
